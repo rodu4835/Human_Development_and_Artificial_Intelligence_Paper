@@ -18,5 +18,5 @@ This is the final project for the CSPB 3702 course. The project focuses on vario
 
 ## Author
 
-[Your Name]
+Ronald Durham
 
